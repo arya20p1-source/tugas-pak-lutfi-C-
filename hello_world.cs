@@ -18,7 +18,7 @@ namespace hello_world
 // string[] args adalah parameter yang digunakan untuk menerima argumen dari command line.
            Console.WriteLine("ASSLAMUALAIKUM");
            // Console.WriteLine adalah method yang digunakan untuk menampilkan output ke layar.
-           Console.WriteLine("NAMA SAYA ADALAH MUHAMMADA RAFFADIAN PRATAMA");
+           Console.WriteLine("NAMA SAYA ADALAH Arya Ardiansah Putra");
            // WriteLine adalah method yang digunakan untuk menampilkan output ke layar dan menambahkan baris baru setelahnya.
            Console.WriteLine("RUMAH SAYA BERADA DI BUDURAN BANJARKEMATREN RT01 RW01");
            // WriteLine adalah method yang digunakan untuk menampilkan output ke layar dan menambahkan baris baru setelahnya.
